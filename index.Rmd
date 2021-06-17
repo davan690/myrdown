@@ -1,0 +1,71 @@
+---
+title: "Understanding the trends in Koala (*Phascolarctos cinereus*) abundance on the south Coast of NSW"
+date: "`r Sys.Date()`"
+author: "Anthony Davidson; Richard Duncan and; Bernd Gruber"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+bibliography: resources.bib
+---
+
+```{r setup, results = "asis"}
+knitr::opts_chunk$set(echo = FALSE,
+                      warning = FALSE, 
+                      message = FALSE, 
+                      # fig.cap = TRUE,
+                      cache = FALSE)
+```
+
+# Project Scope {#overview}
+
+The `r 2021` report compares the results from three periods of local Koala surveys using faecal pallet surveys [@Forests2008; @Phillips2011] on the South-Eastern New South Wales coast (SENSW) in coastal forests to the north-east of Bega between 2007 and 2021. (three periods). In this report we have investigated the differences between sites and survey periods that have been used to generate each of the `iKoala` reports for 2021. The terminology and analyses performed within this report are consistent with earlier analysis in [@Gruber2013; @Gruber2015] unless otherwise stated. We also extend on the results generated from the `iKoala` application to fit a new occupancy model accounting for species of tree as a potential factor impacting the survey detection.
+
+```{r koilaImage, fig.cap = testCAP}
+knitr::include_graphics(here::here("images/iKoalaICON.png"))
+
+testCAP <- c("I be testing u")
+```
+
+In the 2021 report we figure \@ref(fig:koilaImage) we have estimated the abundance of koalas across all five sites as well as site specific abundance for each of the study areas. The terminology and analyses performed within this report are consistent with earlier analysis [@Gruber2013; @Gruber2014; @Gruber2015] unless otherwise stated:
+
+1. **Monitoring design of sampling area and periods**: The first section of the report looks at the sampling design at each of the 5 sites during each of the 3 periods.
+
+2. **Raw Occurrence data:** The raw observations of Koala presence determined by the presence of koala faecal pellets at a sampling sites overall and for each period.
+
+3. **Occupancy model:** The previous (prior to 2020) Koala report fitted an occupancy model to the data by dividing the observed occupancy into the three groups and estimated koala abundance after accounting for detection issues. The 2021 report has updated this model to account for the processes effecting detection in a more ecologically meaningful way based off a Bayesian State-Space model that accounts for both the observation and process error associated with estimating Koala abundance.
+
+4. **Previous analyses (ran for full dataset only)**: Two key aspects of previous reports have been included as additional information into the following aspects of this research data. These analyses have been done at the level of the whole dataset (by combining all sites (n = 5). Each individual analysis for further investigation can be generated from the `iKoala` application.
+
+	- **Activity**: Activity was estimated as the proportion of trees with one or more koala faecal pellets at a sampling site for each of the three periods.
+	- **Tree preferences**: Koalas are know to select certain tree species (referred to as 'strike rate') - defined as the probability for every period that a faecal pellet is found under a tree of a particular tree species.
+
+Additional notes on the project structure can be found in the `./README.Rmd` file. *For more information on terminology, sampling methods and analysis, please, refer to the reports referred to above. These pdfs can also be found within the project folder `/_resources/pdfs/pastReports/`*.
+
+```{r eval = FALSE}
+list.files(here::here("./_resources/pdfs/"))
+```
+
+<!-- 2021 summary information -->
+
+<!-- # ```{r child = "01-introduction.Rmd", results='asis'} -->
+<!-- #  -->
+<!-- # ``` -->
+
+<!-- Monitoring summary information -->
+
+<!-- # ```{r child = "02-method.Rmd", results='asis'} -->
+<!-- # # #another child document etc etc...  -->
+<!-- # ``` -->
+
+<!-- results-->
+
+<!-- # ```{r child = "01-introduction.Rmd", results='asis'} -->
+<!-- #  -->
+<!-- # ``` -->
+
+<!-- discussion -->
+
+<!-- # ```{r child = "02-method.Rmd", results='asis'} -->
+<!-- # # #another child document etc etc...  -->
+<!-- # ``` -->
+
+<!-- References -->

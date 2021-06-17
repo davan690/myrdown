@@ -1,0 +1,43 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      before: |
+        <li><a href="./">Koala abundance on the south coast of NSW, Australia.</a></li>
+      after: |
+        <li><a href="https://github.com/davan690/koaladown" target="blank">Published with bookdown</a></li>
+    edit: https://github.com/davan690/KoalaReport2021/docs/edit/master/%s
+    download: ["pdf", "epub", "mobi", "docx"]
+    link-citations: yes
+#bibliography: Beech-forests.bib
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+  latex_engine: xelatex
+  citation_package: natbib
+#  csl: wildlife-research.csl
+bookdown::epub_book: default
+bookdown::word_document2:
+ #  reference_docx: template_v3.docx
+   fig_caption: yes
+   toc: yes
+   number_sections: false
+bookdown::html_document2:
+   theme: united
+   highlight: espresso
+   fig_caption: yes
+   toc: yes
+   toc_float: true
+   code_folding: hide
+   df_print: paged
+   number_sections: false
+#   output_dir: "docs"
+#bookdown::pdf_document2:
+#  keep_tex: true
+#bookdown::word_document2:
+#  toc: true
+officedown::rdocx_document: 
+#   reference_docx: template_v3.docx
+   fig_caption: yes
+   toc: yes
+   number_sections: false

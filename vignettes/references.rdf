@@ -1,0 +1,1198 @@
+<?xml version="1.0"?>
+<rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:bibo="http://purl.org/ontology/biblio/"
+      xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:dcterms="http://purl.org/dc/terms/"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+>
+
+<bibo:Article rdf:about="">
+
+    <dc:title>The sampling characteristics of electivity indices</dc:title>
+    <dc:date>1982</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>Oecologia</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>52</bibo:volume>
+
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Lechowicz&#44; Martin J"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Document rdf:about="">
+
+    <dc:title>Soil Landscapes of the Cooma 1: 100 000 Sheet: Peak View&#44; Kybeyan&#44; Rock Flat&#44; Chakola</dc:title>
+    <dc:date>1994</dc:date>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Tulau&#44; MJ"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Article rdf:about="">
+
+    <dc:title>Tree species preferences of koalas (Phascolarctos cinereus) in the Campbelltown area south&#45;west of Sydney&#44; New South Wales</dc:title>
+    <dc:date>2000</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>Wildlife Research</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>27</bibo:volume>
+
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Phillips&#44; Stephen"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Callaghan&#44; John"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="https://doi.org/10.1111/j.1523&#45;1739.2006.00378.x">
+
+    <dc:title>Accounting for management costs in sensitivity analyses of matrix population models</dc:title>
+    <dc:date>2006</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>Conserv. Biol.</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>20</bibo:volume>
+    <bibo:doi>10.1111/j.1523&#45;1739.2006.00378.x</bibo:doi>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Baxter&#44; Peter W J"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="McCarthy&#44; Michael A."/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Possingham&#44; Hugh P."/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Menkhorst&#44; Peter W."/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="McLean&#44; Natasha"/></bibo:contributor>
+    <bibo:position>5</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="">
+
+    <dc:title>A working guide to boosted regression trees</dc:title>
+    <dc:date>2008</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>Journal of Animal Ecology</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>77</bibo:volume>
+
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Elith&#44; Jane"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Leathwick&#44; John R"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Hastie&#44; Trevor"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Document rdf:about="">
+
+    <dc:title>The utility of regularized&#44; grid&#45;based SAT (RGB&#45;SAT) sampling for the purposes of identifying areas being utilized by koalas(Phascolarctos cinereus) in the South&#45;east Forests of NSW &#8211; a Pilot Study</dc:title>
+    <dc:date>2008</dc:date>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Stephen Phillips"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Marama Hopkins"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Document rdf:about="">
+
+    <dc:title>Koala surveys in the coastal forests of the Bermagui&#45;Mumbulla area: 2007&#45;09 &#45; An interim report.</dc:title>
+    <dc:date>2010</dc:date>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="C D Allen; M Saxon; K McDougal"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Article rdf:about="https://doi.org/10.1071/WR09134">
+
+    <dc:title>Defining spatial genetic structure and management units for vulnerable koala (Phascolarctos cinereus) populations in the Sydney region&#44; Australia</dc:title>
+    <dc:date>2010</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>Wildl. Res.</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>37</bibo:volume>
+    <bibo:doi>10.1071/WR09134</bibo:doi>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Lee&#44; Tristan"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Zenger&#44; Kyall R."/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Close&#44; Robert L."/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Jones&#44; Marilyn"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Phalen&#44; David N."/></bibo:contributor>
+    <bibo:position>5</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Document rdf:about="">
+
+    <dc:title>Tweed Coast Koala Habitat Study.</dc:title>
+    <dc:date>2011</dc:date>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Biolink"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Article rdf:about="">
+
+    <dc:title>On managing the red mason bee (Osmia bicornis) in apple orchards</dc:title>
+    <dc:date>2011</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>Apidologie</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>42</bibo:volume>
+
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Gruber&#44; Bernd"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Eckel&#44; Katharina"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Everaars&#44; Jeroen"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Dormann&#44; Carsten F"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="https://doi.org/10.7882/AZ.2011.029">
+
+    <dc:title>The Spot Assessment Technique: A tool for determining localised levels of habitat use by Koalas Phascolarctos cinereus</dc:title>
+    <dc:date>2011</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>Aust. Zool.</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>35</bibo:volume>
+    <bibo:doi>10.7882/AZ.2011.029</bibo:doi>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Phillips&#44; Stephen"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Callaghan&#44; John"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="https://doi.org/10.1155/2012/631856">
+
+    <dc:title>Experimental evaluation of koala scat persistence and detectability with implications for pellet&#45;based fauna census</dc:title>
+    <dc:date>2012</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>Int. J. Zool.</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>2012</bibo:volume>
+    <bibo:doi>10.1155/2012/631856</bibo:doi>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Cristescu&#44; Romane H."/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Goethals&#44; Klara"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Banks&#44; Peter B."/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Carrick&#44; Frank N."/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Fr&#232;re&#44; C&#233;line"/></bibo:contributor>
+    <bibo:position>5</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="https://doi.org/10.7882/AZ.2012.030">
+
+    <dc:title>What faecal pellet surveys can and can&#39;t reveal about the ecology of koalas &lt;i&gt;Phascolarctos cinereus&lt;/i&gt;</dc:title>
+    <dc:date>2012</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>Aust. Zool.</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>36</bibo:volume>
+    <bibo:doi>10.7882/AZ.2012.030</bibo:doi>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Olivia Woosnam&#45;Merchez ; Romane Cristescu ; David Dique ; Bill Ellis ; Robert Beeton ; Jeremy Simmonds ; Frank Carrick"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="">
+
+    <dc:title>Southern Tableland Koala Survey 2012&#45;2013</dc:title>
+    <dc:date>2013</dc:date>
+
+
+
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Gruber&#44; Bernd"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Vysna&#44; Veronika"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Adamack&#44; Aaron T"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="">
+
+    <dc:title>Comparison of South Coast Koala Surveys</dc:title>
+    <dc:date>2014</dc:date>
+
+
+
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Gruber&#44; Bernd"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Vysna&#44; Veronika"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Adamack&#44; Aaron T"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="">
+
+    <dc:title>Southern Tableland Koala Survey 2012&#45;2013</dc:title>
+    <dc:date>2014</dc:date>
+
+
+
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Gruber&#44; Bernd"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Vysna&#44; Veronika"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Adamack&#44; Aaron T"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="">
+
+    <dc:title>What faecal pellet surveys can and can&#39;t reveal about the ecology of koalas Phascolarctos cinereus II : an interim response to Woosnam &#8211; Merchez et al . ( 2013 ). What faecal pellet surveys can and can &#39; t reveal about the ecology of koalas Phascolarcto</dc:title>
+    <dc:date>2014</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>Aust. Zool.</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>36</bibo:volume>
+
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Phillips&#44; Stephen"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Callaghan&#44; John"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Phillips&#44; Stephen"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Callaghan&#44; John"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Document rdf:about="">
+
+    <dc:title>Koala Poo Survey</dc:title>
+    <dc:date>2015</dc:date>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Gruber&#44; Bernd"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Adamack&#44; Aaron"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Article rdf:about="">
+
+    <dc:title>Department of Environment and Heritage Protection South East Queensland Koala Population Modelling Study Authors A / Prof Jonathan Rhodes Dr Hawthorne Beyer Dr Harriet Preece Prof Clive McAlpine</dc:title>
+    <dc:date>2015</dc:date>
+
+
+
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Rhodes&#44; Jonathan"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Beyer&#44; Hawthorne"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Preece&#44; Harriet"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="McAlpine&#44; Clive"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="">
+
+    <dc:title>Comparison of Koala Surveys in South&#45;Eastern NSW Coastal Forests 2007&#45;2009 &#x0026; 2010&#45;2013</dc:title>
+    <dc:date>2016</dc:date>
+
+
+
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Adamack&#44; Aaron T"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Vysna&#44; Veronika"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Document rdf:about="">
+
+    <dc:title>Southern Tableland Koala Survey 2012&#45;2015</dc:title>
+    <dc:date>2016</dc:date>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Gruber&#44; Bernd; Veronika Vysna; Aaron T Adamack"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Document rdf:about="">
+
+    <dc:title>Koala Likelihood Mapping &#45; Baseline Koala Survey Analysis and Reporting</dc:title>
+    <dc:date>2016</dc:date>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Phillips&#44; S"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Wallis&#44; K"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Article rdf:about="">
+
+    <dc:title>Koala Presence / Absence Survey &#8211; Lot 7 SP228453 ( Final Report ) Executive summary</dc:title>
+    <dc:date>2016</dc:date>
+
+    <bibo:volume>228453</bibo:volume>
+
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Yarwun&#44; R T A"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="https://doi.org/10.1071/wr17032">
+
+    <dc:title>Ecological history of the koala and implications for management</dc:title>
+    <dc:date>2017</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>Wildl. Res.</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>44</bibo:volume>
+    <bibo:doi>10.1071/wr17032</bibo:doi>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Jurskis&#44; Vic"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="https://doi.org/10.1071/wr16171">
+
+    <dc:title>Mooted extinction of koalas at Eden: improving the information base</dc:title>
+    <dc:date>2017</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>Wildlife Research</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>44</bibo:volume>
+    <bibo:doi>10.1071/wr16171</bibo:doi>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Vic Jurskis"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="https://doi.org/10.1071/WR16163">
+
+    <dc:title>A review of climatic change as a determinant of the viability of koala populations</dc:title>
+    <dc:date>2017</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>Wildl. Res.</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>44</bibo:volume>
+    <bibo:doi>10.1071/WR16163</bibo:doi>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Reckless&#44; Hailee J."/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Murray&#44; Michael"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Crowther&#44; Mathew S."/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="https://doi.org/10.1071/WR17184">
+
+    <dc:title>Using non&#45;invasive sampling methods to determine the prevalence and distribution of Chlamydia pecorum and koala retrovirus in a remnant koala population with conservation importance</dc:title>
+    <dc:date>2018</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>Wildl. Res.</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>45</bibo:volume>
+    <bibo:doi>10.1071/WR17184</bibo:doi>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Faye Wedrowicz; Jennifer Mosse; Wendy Wright; Fiona E. Hogan"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="https://doi.org/10.1038/s41598&#45;019&#45;46376&#45;5">
+
+    <dc:title>The value of long&#45;term citizen science data for monitoring koala populations</dc:title>
+    <dc:date>2019</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>Sci. Rep.</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>9</bibo:volume>
+    <bibo:doi>10.1038/s41598&#45;019&#45;46376&#45;5</bibo:doi>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Dissanayake&#44; Ravi Bandara"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Stevenson&#44; Mark"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Allavena&#44; Rachel"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Henning&#44; Joerg"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="https://doi.org/10.1016/j.landurbplan.2019.103591">
+
+    <dc:title>Genetic sampling identifies canid predators of koalas (Phascolarctos cinereus) in peri&#45;urban areas</dc:title>
+    <dc:date>2019</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>Landsc. Urban Plan.</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>190</bibo:volume>
+    <bibo:doi>10.1016/j.landurbplan.2019.103591</bibo:doi>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Gentle&#44; Matthew"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Allen&#44; Benjamin L."/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Oakey&#44; Jane"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Speed&#44; James"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Harriott&#44; Lana"/></bibo:contributor>
+    <bibo:position>5</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Loader&#44; Jo"/></bibo:contributor>
+    <bibo:position>6</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Robbins&#44; Amy"/></bibo:contributor>
+    <bibo:position>7</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="de Villiers&#44; Deidre"/></bibo:contributor>
+    <bibo:position>8</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Hanger&#44; Jon"/></bibo:contributor>
+    <bibo:position>9</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="https://doi.org/10.1111/ecog.04321">
+
+    <dc:title>Effect of detection heterogeneity in occupancy&#45;detection models: an experimental test of time&#45;to&#45;first&#45;detection methods</dc:title>
+    <dc:date>2019</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>Ecography (Cop.).</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>42</bibo:volume>
+    <bibo:doi>10.1111/ecog.04321</bibo:doi>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Medina&#45;Romero&#44; Margarita"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="O&#39;Reilly&#45;Nugent&#44; Andrew"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Davidson&#44; Anthony"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Bray&#44; Jonathan"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Wandrag&#44; Elizabeth"/></bibo:contributor>
+    <bibo:position>5</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Gruber&#44; Bernd"/></bibo:contributor>
+    <bibo:position>6</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Lopez&#45;Aldana&#44; Angelica"/></bibo:contributor>
+    <bibo:position>7</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Palit&#44; Rakhi"/></bibo:contributor>
+    <bibo:position>8</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Reid&#44; Tim"/></bibo:contributor>
+    <bibo:position>9</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Adamack&#44; Aaron"/></bibo:contributor>
+    <bibo:position>10</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Pietsch&#44; Rod"/></bibo:contributor>
+    <bibo:position>11</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Allen&#44; Chris"/></bibo:contributor>
+    <bibo:position>12</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Mac Nally&#44; Ralph"/></bibo:contributor>
+    <bibo:position>13</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Duncan&#44; Richard P."/></bibo:contributor>
+    <bibo:position>14</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="https://doi.org/10.1071/WR19090">
+
+    <dc:title>Survival and movements of koalas translocated from an over&#45;abundant population</dc:title>
+    <dc:date>2019</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>Wildl. Res.</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>46</bibo:volume>
+    <bibo:doi>10.1071/WR19090</bibo:doi>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Menkhorst&#44; Peter"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Ramsey&#44; David"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="O&#39;Brien&#44; Tim"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Hynes&#44; Emily"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Whisson&#44; Desley"/></bibo:contributor>
+    <bibo:position>5</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="https://doi.org/10.1071/ZO20006">
+
+    <dc:title>The development of an improved scat survey method for koalas (Phascolarctos cinereus)</dc:title>
+    <dc:date>2020</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>Aust. J. Zool.</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>67</bibo:volume>
+    <bibo:doi>10.1071/ZO20006</bibo:doi>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Jiang&#44; Alex"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Tribe&#44; Andrew"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Murray&#44; Peter"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+</rdf:RDF>

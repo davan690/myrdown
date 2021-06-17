@@ -1,0 +1,11 @@
+book_filename: "SouthCoastKoalaReport2021_ARD"
+language:
+  ui:
+    chapter_name: " "
+output_dir: "docs"
+rmd_files: ["index.Rmd","01-introduction.Rmd", "02-method.Rmd"]
+#,"02-monitoring.Rmd","06-references.Rmd", "07-supplement_material.Rmd"]
+# "01-summaryReport2021.Rmd",
+#,"01-introduction.Rmd", "03-Material-and-methods.Rmd", "04-Results.Rmd","05-Discussion.Rmd","07-references.Rmd", "08-appendix.Rmd"]
+delete_merged_file: true
+always_allow_html: true
